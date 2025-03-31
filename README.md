@@ -3,7 +3,8 @@
 ```markdown
 # News Website
 
-This project is a news website that fetches and displays top headlines from various categories such as Business, Health, Science, Sports, and Technology. Users can also search for news articles by keywords. Additionally, the website includes a newsletter subscription feature where users can subscribe by entering their email addresses.
+This project is a news website that fetches and displays top headlines from various categories such as Business, Health, Science, Sports, and Technology.
+ Users can also search for news articles by keywords. Additionally, the website includes a newsletter subscription feature where users can subscribe by entering their email addresses.
 
 ## Table of Contents
 
