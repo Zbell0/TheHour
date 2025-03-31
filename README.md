@@ -1,4 +1,4 @@
-Sure, here's the updated `README.md` without the Contributing and License sections:
+
 
 ```markdown
 # News Website
